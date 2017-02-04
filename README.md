@@ -5,6 +5,7 @@ Utility to transform a arff file into CSV file
 
 - -n: Normalize numeric values. Default false.
 - -h: Add attributes names as first line into CSV file (head). Default false.
+- -d: File csv to create
 
 ## Examples
 
