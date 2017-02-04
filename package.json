@@ -1,0 +1,26 @@
+{
+  "name": "arff-to-csv",
+  "version": "1.0.0",
+  "description": "Utility to parse arff file into CSV file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manmorjim/arff-to-csv.git"
+  },
+  "keywords": [
+    "arff",
+    "csv",
+    "node",
+    "machine-learning",
+    "ai"
+  ],
+  "author": "manmorjim@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manmorjim/arff-to-csv/issues"
+  },
+  "homepage": "https://github.com/manmorjim/arff-to-csv#readme"
+}
